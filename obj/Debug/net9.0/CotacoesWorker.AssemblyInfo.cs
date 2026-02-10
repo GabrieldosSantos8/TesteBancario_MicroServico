@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CotacoesWorker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+877b573e31d46fdc4f4bfc30afa5ade096f12b37")]
 [assembly: System.Reflection.AssemblyProductAttribute("CotacoesWorker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CotacoesWorker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
